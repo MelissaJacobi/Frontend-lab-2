@@ -1,0 +1,16 @@
+.artist {
+
+}
+
+.photo {
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.artist_li {
+    background-color: rgb(169, 169, 169);
+    margin: 5px;
+    padding: 5px;
+
+}

@@ -1,0 +1,14 @@
+.artist {
+
+}
+
+.photo {
+    width: 50px;
+}
+
+.artist_li {
+    background-color: rgb(169, 169, 169);
+    margin: 5px;
+    padding: 5px;
+    
+}
